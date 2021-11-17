@@ -37,8 +37,6 @@
 
 
 a project that takes the email and password from the user and sends an email using Gmail SMTP
-/ C# WPF Forms: `Morisamy`, `Emailer`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
