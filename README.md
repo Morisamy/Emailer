@@ -52,7 +52,8 @@ a project that takes the email and password from the user and sends an email usi
 ### Security Issues
 If you faced Errors regarding the SMTP 
 Kindly check here:
+* [👇](https://stackoverflow.com/questions/20906077/gmail-error-the-smtp-server-requires-a-secure-connection-or-the-client-was-not)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-https://stackoverflow.com/questions/20906077/gmail-error-the-smtp-server-requires-a-secure-connection-or-the-client-was-not
 
 
