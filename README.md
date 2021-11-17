@@ -6,7 +6,7 @@
     <img src="https://github.com/Morisamy/LoginModernUI/blob/master/LoginModernUI/Images/2.PNG" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">LoginModernUI</h3>
+<h3 align="center">Emailer</h3>
 
   
 </div>
