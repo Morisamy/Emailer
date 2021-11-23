@@ -39,7 +39,7 @@
 a project that takes the email and password from the user and sends an email using Gmail SMTP
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+![GitHub Logo](https://github.com/Morisamy/Emailer/blob/master/Emailer.JPG)
 
 ### Built With
 
